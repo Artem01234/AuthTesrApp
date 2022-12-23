@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "ru.nhmt.authtestapp-mergeDebugResources-28:/layout/activity_main.xml",
+        "source": "ru.nhmt.authtestapp-main-31:/layout/activity_main.xml"
+    },
+    {
+        "merged": "ru.nhmt.authtestapp-mergeDebugResources-28:/layout/activity_sign_up.xml",
+        "source": "ru.nhmt.authtestapp-main-31:/layout/activity_sign_up.xml"
+    },
+    {
+        "merged": "ru.nhmt.authtestapp-mergeDebugResources-28:/layout/activity_list.xml",
+        "source": "ru.nhmt.authtestapp-main-31:/layout/activity_list.xml"
+    },
+    {
+        "merged": "ru.nhmt.authtestapp-mergeDebugResources-28:/layout/item_users_list.xml",
+        "source": "ru.nhmt.authtestapp-main-31:/layout/item_users_list.xml"
+    },
+    {
+        "merged": "ru.nhmt.authtestapp-mergeDebugResources-28:/layout/activity_main2.xml",
+        "source": "ru.nhmt.authtestapp-main-31:/layout/activity_main2.xml"
+    }
+]
